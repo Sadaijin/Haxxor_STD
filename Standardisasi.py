@@ -41,7 +41,7 @@ if pilihan =="Tentang Kami" :
     st.title('KELOMPOK 1')
     st.write('\n')
     st.write('\n')
-    st.image(Image.open('logo.PNG'))
+    st.image(Image.open('logo.png'))
     
    
     #Teks
